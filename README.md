@@ -1,4 +1,4 @@
-## A Face-Recognition Attendance Detector is an automated system designed to track and record attendance by identifying individuals based on their facial features. Unlike traditional methods such as manual entry or ID card scanning, this system utilizes advanced facial recognition technology to streamline attendance monitoring in environments like schools, workplaces, and events.##
+## A Face-Recognition Attendance Detector is an automated system designed to track and record attendance by identifying individuals based on their facial features. Unlike traditional methods such as manual entry or ID card scanning, this system utilizes advanced facial recognition technology to streamline attendance monitoring in environments like schools, workplaces, and events.
 
 # Key Components:
 
