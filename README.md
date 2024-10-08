@@ -6,14 +6,14 @@
    
 2. Facial Recognition Software: Analyzes and compares facial features (like the distance between eyes, shape of cheekbones, jawline, etc.) against a stored database of known faces.
    
-3.Database: Stores the facial data of registered individuals, typically as encoded biometric templates. This data is used for matching and verification.
+3. Database: Stores the facial data of registered individuals, typically as encoded biometric templates. This data is used for matching and verification.
 
 4. Attendance Management Software: Logs attendance data by marking the person as present when a successful match is made. It can also provide additional features such as timestamps, reporting, and integration with other systems like payroll or academic records.
 
 
 # Features and Benefits:
 
-1.Contactless and Automated: Reduces the need for manual intervention or physical interaction with devices, making it a hygienic solution, especially in public spaces or during pandemics.
+1. Contactless and Automated: Reduces the need for manual intervention or physical interaction with devices, making it a hygienic solution, especially in public spaces or during pandemics.
 
 2. Fast and Accurate: Facial recognition can identify individuals within seconds, even in large groups, ensuring efficient and accurate attendance tracking.
 
