@@ -1,10 +1,3 @@
-
-############################################################################
-############################################################################
-
-
-
-
 import os  # For interacting with the operating system
 import pickle  # For reading the encoded face data
 import numpy as np  # For numerical operations
@@ -15,7 +8,7 @@ import firebase_admin  # For interacting with Firebase
 from firebase_admin import credentials  # For managing credentials
 from firebase_admin import db  # For accessing the Firebase database
 from firebase_admin import storage  # For accessing Firebase storage
-from datetime import datetime  # For handling date and time
+from datetime import datetime  
 
 # Initialize Firebase with the given credentials
 cred = credentials.Certificate("YOUR FIREBASE CREDENTIALS")
@@ -161,6 +154,3 @@ while True:
     cv2.waitKey(1)  # Wait for 1 millisecond before the next frame
 
 
-####################################################################
-
-###############################################################33
